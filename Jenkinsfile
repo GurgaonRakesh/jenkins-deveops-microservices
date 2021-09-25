@@ -3,6 +3,9 @@ node {
 		echo "Build"
 	}
 	stage('Test') {
-		echo "Test"
+		echo "Rakesh"
+	}
+	stage('Test') {
+		echo "Singh"
 	}
 }
